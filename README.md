@@ -1,6 +1,11 @@
 # DePIN Backend API
 
-This directory contains the backend server for persisting wallet and user data.
+This directory contains the backend server for persisting wallet and user data. It is deployed [here](https://pv78eze63c.execute-api.eu-north-1.amazonaws.com/login).
+
+# Prereqs 
+
+You will need some XDC and BIGW to get started. You can use the private key `5584169cfbb93d57b1ef7e302082b4629fabd31bc02fe0f2307c5834b786929e` to test the dapp. It has some XDC and BIGW.
+Please reach out at vbhattac@alumni.cmu.edu for tokens if you would like to test itwith more tokens.
 
 ## API Endpoints
 
