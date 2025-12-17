@@ -1,6 +1,6 @@
 # DePIN Backend API
 
-This directory contains the backend server for persisting wallet and user data. It is deployed [here](https://pv78eze63c.execute-api.eu-north-1.amazonaws.com/login).
+This directory contains the backend server for persisting wallet and user data. 
 
 # Prereqs 
 
