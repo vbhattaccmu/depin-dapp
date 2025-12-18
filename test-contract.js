@@ -8,9 +8,6 @@ const config = {
   network: {
     rpcUrl: 'https://rpc.xinfin.network'
   },
-  owners: {
-    deviceRegistryOwnerKey: '0xb0dabc6b9032a533e9981a09ec3f4536d44bdcc575614cf0c1418435e3fcef90'
-  }
 }
 
 const DeviceRegistryABI = [
